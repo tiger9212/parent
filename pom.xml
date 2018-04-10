@@ -213,13 +213,13 @@
         <repository>
             <id>releases</id>
             <name>releases</name>
-            <url>http://www.outab.com:8888/nexus/content/repositories/releases/</url>
+            <url>http://nexus.outab.com/nexus/content/repositories/releases/</url>
             <uniqueVersion>true</uniqueVersion>
         </repository>
         <snapshotRepository>
             <id>snapshots</id>
             <name>snapshots</name>
-            <url>http://www.outab.com:8888/nexus/content/repositories/snapshots/</url>
+            <url>http://nexus.outab.com/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
 
